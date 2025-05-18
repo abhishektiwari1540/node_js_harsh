@@ -10,7 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0",
-    "node_project_with_harsh": "file:"
+    "express": "^5.1.0"
   }
 }
